@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "marked": "^13.0.0",
+    "qs": "^6.12.1",
+    "svelte-spa-router": "^4.0.1"
+  },
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^26.0.1"
+  }
+}
